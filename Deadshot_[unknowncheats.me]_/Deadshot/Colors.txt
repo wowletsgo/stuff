@@ -1,0 +1,3 @@
+Purple = 0xA145A3
+Red = 0xB82C29
+Yellow = 0xA5A528
